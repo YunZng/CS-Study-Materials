@@ -8,8 +8,10 @@
 - Web Development(data visualization tools/library)
 
 ## [Data Structure](https://www.cs.cmu.edu/~clo/www/CMU/DataStructures/Lessons/)
-1. Linked list: singly linked list, doubly linked list
-2. Tree: 
+1. Common structures: array, stack(LIFO), queue(FIFO)
+2. Linked list: singly linked list, doubly linked list
+3. Tree: binary tree, binary tree as an array, heap
+4. [Graph](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/): degrees, and directed, undirected, connected, disconnected, complete, cyclic, and bipartite graphs
 ## Algorithm
 1. Basic algorithms:
     1. [Searching](https://www.geeksforgeeks.org/searching-algorithms/): BFS, DFS

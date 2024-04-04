@@ -17,5 +17,8 @@
     1. [Searching](https://www.geeksforgeeks.org/searching-algorithms/): BFS, DFS
     2. [Sorting](https://www.geeksforgeeks.org/sorting-algorithms/): Bubble sort, 
 2. What is [space/time complexity](https://www.simplilearn.com/tutorials/data-structure-tutorial/time-and-space-complexity#:~:text=Time%20complexity%20is%20a%20functionof%20input%20to%20the%20method.)? Understand the O notation
-2. Shortest path:
-    1. Dijkstra
+3. Shortest path:
+    1. Dijkstra (forest fire algorithm)
+6. Greedy:
+    - Minimum spanning tree: Kruskal's greedy algorithm, pick smallest edges that do not result in cycles. Can use this algorithm to build roads between cities.
+    - 

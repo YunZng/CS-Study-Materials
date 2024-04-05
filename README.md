@@ -13,7 +13,7 @@
 3. Tree: binary tree, binary tree as an array, heap
 4. [Graph](https://www.geeksforgeeks.org/introduction-to-graphs-data-structure-and-algorithm-tutorials/): degrees, and directed, undirected, connected, disconnected, complete, cyclic, and bipartite graphs
 ## Algorithm
-1. Basic algorithms:
+1. Basic [sorting algorithms](https://www.youtube.com/watch?v=RfXt_qHDEPw):
     1. [Searching](https://www.geeksforgeeks.org/searching-algorithms/): BFS, DFS
     2. [Sorting](https://www.geeksforgeeks.org/sorting-algorithms/): Bubble sort, 
 2. What is [space/time complexity](https://www.simplilearn.com/tutorials/data-structure-tutorial/time-and-space-complexity#:~:text=Time%20complexity%20is%20a%20functionof%20input%20to%20the%20method.)? Understand the O notation
